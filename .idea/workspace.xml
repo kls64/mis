@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c992d94-77f4-4b32-a304-ddfb03ec7084" name="Default Changelist" comment="" />
+    <list default="true" id="4c992d94-77f4-4b32-a304-ddfb03ec7084" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +39,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1mJzEFkZaIMuaD8AaDbZYcucfmQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -111,12 +116,24 @@
       <workItem from="1609319120349" duration="18000" />
       <workItem from="1609339668184" duration="1765000" />
       <workItem from="1609987821409" duration="702000" />
-      <workItem from="1609988565823" duration="868000" />
+      <workItem from="1609988565823" duration="1540000" />
     </task>
+    <task id="LOCAL-00001" summary="smi-1.0">
+      <created>1609989701792</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609989701792</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="smi-1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="smi-1.0" />
   </component>
   <component name="WindowStateProjectService">
     <state x="487" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609313492584">
@@ -131,14 +148,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="271" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1609245678902" />
-    <state x="192" y="4" key="CommitChangelistDialog2" timestamp="1609989639851">
+    <state x="192" y="4" key="CommitChangelistDialog2" timestamp="1609989699781">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="192" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1609989639851" />
+    <state x="192" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1609989699781" />
     <state x="838" y="203" key="FileChooserDialogImpl" timestamp="1609989467727">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="838" y="203" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609989467727" />
+    <state x="644" y="306" width="272" height="211" key="Github.ShareDialog" timestamp="1609989804526">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="644" y="306" width="272" height="211" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1609989804526" />
     <state width="1493" height="86" key="GridCell.Tab.0.bottom" timestamp="1609341450278">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
