@@ -1,1 +1,2 @@
-i am readme. 1.8
+<<<<<<< HEAD
+i am readme.
