@@ -1,2 +1,1 @@
-<<<<<<< HEAD
 i am readme.
